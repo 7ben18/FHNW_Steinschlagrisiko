@@ -7,7 +7,7 @@ Wir muessen entscheiden, ob wir die Strasse sperren oder nicht.
 
 Daten nutzen um Entscheidungen zu faellen
 
-Grundlagen suchen
+Grundlagen suchen.
 
 Chaos-Theorie
 
