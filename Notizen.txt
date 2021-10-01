@@ -1,0 +1,36 @@
+Notizen 29.09.21
+
+Modellierungen von tot und lebendig (1 und 0)
+
+Wahrscheinlichkeit, dass ein Todesfall aufgrund von Steinschlag passieren kann.
+Wir muessen entscheiden, ob wir die Strasse sperren oder nicht.
+
+Daten nutzen um Entscheidungen zu faellen
+
+Grundlagen suchen
+
+Chaos-Theorie
+
+Das System verstehen, mathematisch repraesentieren
+Informationen zum System verstehen
+Das System nicht zu einfach und nicht zu schwer machen
+
+System keinen Einfluss & System zu komplex -> Gruende fuer ein einfacheres Modell
+
+Die Geschwindigkeit spielt eine Rolle
+Es wird nicht mit Sicherheitsfaktoren berechnet. Bsp: 500 Haelt die Wand aus, wir rechnen aber mit 300. 
+
+Praezise Berechnung zu todesfall. 
+
+Domaine wissen
+Strukturieren
+zusammenfassen
+System versuchen zu verstehen
+Schematik darstellen, wie es zu einem Todesfall kommt. (Stein & Auto)
+Kausale Kette, mehrere Schritte die eintreffen muessen, damit es ein Todesfall kommt. 
+
+Tagesverteilung im Verkehr. Tag/Nacht
+
+Was ist die Kausale Kette zu einem Todesfall? welche Schritte. 
+
+Ziel: Todesfallwahrscheinlichkeit
