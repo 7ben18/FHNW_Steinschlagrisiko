@@ -7,8 +7,10 @@ In den letzten Monaten haben sich mehrere Steinschlagereignisse ereignet. Kommt 
 Damit die Strasse offen bleiben kann, muss gezeigt werden, dass die jährliche Wahrscheinlichkeit von Todesfällen infolge Steinschlags kleiner als 10-4  ist. Für die Berechnungen soll ein gut strukturierter und dokumentierter Code in Python oder R entwickelt werden.
 
 Abgabe
+
 Form der Abgabe
 Quellcode der Berechnungen in einem Notebook (R oder Jupyter).
 Kurzer Bericht (max 8 Seiten) der die Berechnungen klar und nachvollziebar beschreibt und die Empfehlung an den Kantonsingenieur begründet.
+
 Abgabetermin
 Montag, 10. Januar 2022
