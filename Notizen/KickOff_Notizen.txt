@@ -34,3 +34,5 @@ Tagesverteilung im Verkehr. Tag/Nacht
 Was ist die Kausale Kette zu einem Todesfall? welche Schritte. 
 
 Ziel: Todesfallwahrscheinlichkeit
+
+

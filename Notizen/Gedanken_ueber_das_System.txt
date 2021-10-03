@@ -1,0 +1,21 @@
+1)	Werden die Steine aus Zone1 und Zone2 auf der gleiche Stücke Sicherschutznetze schlagen? 
+   	Oder gibt es 1 Netz für Zone1, noch 1 für Zone2?
+
+Gleiche Sicherheitsnetze 
+ 
+2)  	In Text „die Sicherheitsnetze bis zu einer Aufprallenergie von 1000 kJ sicher sind“
+   	Das ‚1000kJ‘ ist für jede Steinschlag Aufprallenergie? Oder akkumuliert? 
+   	Und wie wäre das für die zwei Steinschlag auf gleich Zeit passiert?
+
+Jeder Steinschalg, wobei die Tragfähigkeit der Netze minimiert ist, wenn bereits Steine im Netz liegen. 
+Zwei Steineschläge gleichzeitig: um diese Frage zu beantworten, müssten man zuerst wissen wie wahrscheinlich es ist, dass zwei Steinschläge gleichteitg passieren. 
+
+3)  	In Text „Falls bereits ein Stein mit über 2000kg in den Sicherheitsnetzen liegt“
+    	Ist die Situation auch enthalten, wenn mehr stücke Steine zusammen über 2000kg in den Netzen liegen?
+
+Ja
+ 
+4)  	In Text „die von den Sicherheitsnetzen aufgenommen werden kann, nur noch 500 kJ.“
+    	Das ‚500kJ‘ bedeutet die akkumuliert Aufprallenergie oder für jede Steinschlag?
+
+einzelner Steinschlag
