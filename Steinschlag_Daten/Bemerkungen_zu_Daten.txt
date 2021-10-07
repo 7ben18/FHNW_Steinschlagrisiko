@@ -1,5 +1,6 @@
 Min, Max Sortierung der Masse. 
 
+<<<<<<< HEAD
 Masse 0 Kg Stein 
 
 Das ist ein Test
@@ -8,4 +9,4 @@ Test2
 
 Das ist ein Test
 ok, das auch. 
-Push push!
+=======
