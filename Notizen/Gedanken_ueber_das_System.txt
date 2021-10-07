@@ -19,3 +19,8 @@ Ja
     	Das ‚500kJ‘ bedeutet die akkumuliert Aufprallenergie oder für jede Steinschlag?
 
 einzelner Steinschlag
+
+
+Spielt die Uhrzeit eine Rolle?
+Spielt die Masse eine Rolle? 
+Spielt die Geschwindigkeit eine Rolle? 
