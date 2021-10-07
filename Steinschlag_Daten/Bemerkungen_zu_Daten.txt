@@ -1,3 +1,5 @@
 Min, Max Sortierung der Masse. 
 
-Masse 0 Kg Stein ?? 
+Masse 0 Kg Stein 
+
+Das ist ein Test
