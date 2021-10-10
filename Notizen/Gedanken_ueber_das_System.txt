@@ -28,10 +28,17 @@ Spielt die Geschwindigkeit eine Rolle?
 
 
 Gedanken Ben
+=> Haelt das Sicherheitsnetz fuer alle Steine? Ab welcher Energie, reisst das Netz und faellt auf die Strasse?
+=> Rechnung der kinetischen Energie 
+=> Relevante Parameter fuer Steinschlag Tod: Masse des Steins, Geschwindigkeit des Stein, Kinetische Aufprall Energie
+=> Kann ein grosser Stein mehere kleine Steine mitreisen? 
+=> 1200 Autos verteilen auf Zeit. (Bsp: 2200 - 0400, 0400 - 1000, 1000 - 1600, 1600 - 2000) In der Nacht fahren weniger Autos als am Tag
+=> Bedingte Wahrscheinlichkeiten fuer die Berechnung nutzen. Wahrscheinlichkeit das Auto durchfahert, und ein Stein faellt sowie das Sicherheits
+netz durchbricht. 
+=> Grafiken erstellen. 
 
 
-
-
+ToDo: Bis 17.10 Daten in Jupyter einlesen, ausgeben koenne. 
 
 Gedanken Lukas
 
