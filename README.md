@@ -16,7 +16,11 @@ Montag, 10. Januar 2022
 
 # Installations:
 pip install numpy
+
 pip install pandas
+
 pip install scipy
+
 pip install matplotlib
+
 pip isntall pandas-profiling
