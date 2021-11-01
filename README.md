@@ -23,4 +23,6 @@ pip install scipy
 
 pip install matplotlib
 
+pip install fitter
+
 pip isntall pandas-profiling
